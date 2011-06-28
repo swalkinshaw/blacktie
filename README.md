@@ -15,3 +15,7 @@ blacktie also includes CSS helper classes for other common form layouts:
 
 * `separated`: for fields with multiple inputs (such as breaking up a phone number)
 * `inline`: for checkbox/radio inputs that should be horizontally displayed
+
+## Notes
+
+blacktie is built on top of HTML5 Boilerplate and its default CSS. This isn't a requirement but the CSS would require some updates without it or with a different CSS reset.
